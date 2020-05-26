@@ -22,3 +22,5 @@ just a data-science model to predict the win of a match in an popular MOBA game-
 
 
 too damn lazy to elaborate
+
+can also be found at : https://www.kaggle.com/maheshpatapalli/lol-ranked-1/notebook
